@@ -1,0 +1,2 @@
+- en verificacion de la ram verificar pq si pongo un dato antes de pc no funciona
+- desaparecer cantidad de direcciones con registros de uso general
