@@ -1,1 +1,6 @@
 - en verificacion de la ram verificar pq si pongo un dato antes de pc no funciona
+
+Observaciones:
+Durante el proceso de experimentación al que se sometió este prototipo, recibió la siguiente retroalimentación:
+•	Diseño general: La mayoría fueron descartadas por no ser aceptadas por otros estudiantes y estudiantes de la carrera de Diseño Gráfico a los cuales se les preguntó su opinión, tales como el uso de colores más llamativos o el uso de otro tipo de letra.
+•	Interfaz de preparación del CPU: los estudiantes encontraron muy poco intuitiva la forma en la que se veía la definición del formato de instrucción, acostumbrados a una explicación más gráfica.
